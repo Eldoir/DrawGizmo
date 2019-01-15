@@ -22,8 +22,8 @@ public class DrawGizmoEditor : Editor
     private int spriteIndex = 0;
 
 
-	void OnEnable()
-	{
+    void OnEnable()
+    {
         DrawGizmo drawGizmo = (DrawGizmo)target;
 
         gizmoType = serializedObject.FindProperty("gizmoType");
@@ -37,7 +37,7 @@ public class DrawGizmoEditor : Editor
 
         sprites = new List<string>();
 
-        foreach(string file in files)
+        foreach (string file in files)
         {
             string fileName = Path.GetFileName(file);
 
