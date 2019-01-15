@@ -29,3 +29,8 @@ Everything comes into a few files.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Notes
+
+There isn't a "Radius" field for DrawGizmo when the selected Gizmo Type is "Sprite".
+You can change the size of the sprite by clicking on the **Gizmos** button in the Scene view, and using the slider next to the **3D Icons** checkbox. More info at [Unity - Manual: Gizmos menu](https://docs.unity3d.com/Manual/GizmosMenu.html)
