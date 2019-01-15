@@ -2,6 +2,8 @@
 
 A simple plugin to display a gizmo on any GameObject, using a cube, a sphere or a custom sprite.
 
+Especially useful for spotting empty GameObjects in the Scene view.
+
 ## Getting Started
 
 For a quick import into an existing project, just get the [UnityPackage](DrawGizmoPackage.unitypackage).
