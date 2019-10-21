@@ -10,12 +10,6 @@ For a quick import into an existing project, just get the [UnityPackage](DrawGiz
 
 The DrawGizmo folder is an empty project with only the plugin imported and some examples! :)
 
-## Prerequisites
-
-There are absolutely no prerequisites to this plugin.
-
-Everything comes into a few files.
-
 ## Screenshots
 
 ![Demo Scene](Screenshots/Example.PNG)
